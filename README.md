@@ -1,2 +1,2 @@
 # marbill
-Billing system on Perl
+Billing system on Mojo
