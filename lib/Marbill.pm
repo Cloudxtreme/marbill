@@ -7,9 +7,6 @@ sub startup {
 
   my $config = $self->plugin('Config');
 
-  # Documentation browser under "/perldoc"
-  $self->plugin('PODRenderer');
-
   # Router
   my $r = $self->routes;
 
