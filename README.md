@@ -1,2 +1,2 @@
 # marbill
-Billing system on Mojo
+Billing system on Mojolicious
